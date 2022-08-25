@@ -1,0 +1,20 @@
+Variable,Type of Attribute,Description
+age,Numerical,Age of the tested individuals
+anaemia,Categorization,Decrease of red blood cells or hemoglobin (boolean)
+creatinine_phosphokinase,Numerical,Level of the CPK enzyme in the blood (mcg/L)
+diabetes,Categorization,If the patient has diabetes (boolean)
+ejection_fraction,Numerical,Percentage of blood leaving the heart at each contraction (percentage)
+high_blood_pressure,Categorization,If the patient has hypertension (boolean)
+platelets,Numerical,Platelets in the blood (kiloplatelets/mL)
+serum_creatinine,Numerical,Level of serum creatinine in the blood (mg/dL)
+serum_sodium,Numerical,Level of serum sodium in the blood (mEq/L)
+sex,Categorization,Woman or man (binary)
+smoking,Categorization,Smoker or not smoker
+time,Numerical,Time before the patient died
+DEATH_EVENT,Target / Categorization,If the patient died due to heart failure or not
+,,
+,,
+,,
+,,
+,,
+"Dataset from Davide Chicco, Giuseppe Jurman: “Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020)",,
